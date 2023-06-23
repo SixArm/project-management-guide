@@ -1,263 +1,272 @@
 # Project Management Primer
 
-Project Management Primer: Concepts • Tactics • Ideas
+Project Management Primer: Concepts, Tactics, Ideas.
 
-This is a glossary guide ebook. One topic per page. 
+This is a glossary guide e-book, with one topic per page. 
 
-### [Project management](project-management)
+Edited by Joel Parker Henderson (@joelparkerhenderson).
 
-* [Project management life cycle (PMLC)](project-management-life-cycle)
-* [The Project Management Book Of Knowledge (PMBOK)](the-project-management-book-of-knowledge)
-* [Inception](inception)
-* [Liftoff](liftoff)
-* [Agile chartering](agile-chartering)
-* [Project charter](project-charter)
-* [Outputs versus outcomes (OVO)](outputs-versus-outcomes)
-* [Statement Of Work (SOW)](statement-of-work)
-* [Functional specifications](functional-specifications) + [steps](functional-specifications-steps)
-* [Program Evaluation and Review Technique (PERT)](program-evaluation-and-review-technique)
-* [Constraint satisfaction](constraint-satisfaction)
-* [Gantt chart](gantt-chart)
-* [Quad chart](quad-chart)
+The e-book is pay-what-you-wish:<br>
+<https://gumroad.com/l/project-management-primer>
 
-## [Resource leveling](resource-leveling)
+The e-book is PDF is also here:
+<project-management-primer.pdf>
 
-* [Critical chain project management](critical-chain-project-management)
-* [Critical path project management](critical-path-project-management)
-* [Kanban](kanban)
-* [Scrum](scrum)
-* [Lean manufacturing](lean-manufacturing)
-* [Lean software development](lean-software-development)
-* [Agile software development methodology](agile-software-development-methodology)
-* [Roll-on Roll-off (RoRo)](roll-on-roll-off)
+## Contents
 
-## [Ideation](ideation)
+Introduction
 
-* [North Star](north-star)
-* [Big Hairy Audacious Goal (BHAG)](big-hairy-audacious-goal)
-* [Creative thinking techniques](creative-thinking-techniques)
-* [Futurespective](futurespective)
-* [Brainstorming](brainstorming)
-* [Synergy](synergy)
-* [Thinking hats](thinking-hats)
-* [SCAMPER](scamper)
-* [Oblique strategies](oblique-strategies)
-* [Storyboard](storyboard) + [steps](storyboard-steps)
-* [Strategy map](strategy-map)
-* [Strategic balanced scorecard (SBS)](strategic-balanced-scorecard)
-* [EBFAS organizational climate](ebfas-organizational-climate)
+Project management
 
-### How will you proceed?
+  * Project management life cycle (PMLC)
+  * The Project Management Book Of Knowledge (PMBOK)
+  * Outputs versus outcomes (OVO)
 
-* [Objectives and Key Results (OKRs)](objectives-and-key-results)
-* [Key Performance Indicators (KPIs)](key-performance-indicators)
-* [Key Risk Indicators (KRIs)](key-risk-indicators)
-* [Critical Success Factors (CSFs)](critical-success-factors)
-* [Critical To Quality (CTQ)](critical-to-quality)
-* [Goals, Ideas, Steps, Tasks (GIST)](goals-ideas-steps-tasks)
-* [Risks, Actions, Issues, Decisions (RAID)](risks-actions-issues-decisions)
-* [SPADE decision framework](spade-decision-framework)
-* [Intent plan](intent-plan)
-* [SMART criteria](smart-criteria)
-* [Cynefin framework](cynefin-framework)
-* [Issue tracker](issue-tracker)
-* [Mind map](mind-map)
-* [Flowchart](flowchart)
-* [Decision tree](decision-tree)
-* [Decision record](decision-record)
-* [Business continuity](business-continuity)
-* [Operational resilience](operational-resilience)
-* [Crowdsourcing](crowdsourcing)
-* [Planning poker estimation](planning-poker-estimation)
-* [MoSCoW method](moscow-method)
+Inception
 
+  * Liftoff
+  * Agile chartering
+  * Project charter
 
-### [Change management](change-management)
+Ideation
 
-* [Six Sigma methodology](six-sigma-methodology)
-* [DMAIC methodology](dmaic-methodology)
-* [Plan-Do-Check-Act (PDCA)](plan-do-check-act)
-* [OODA loop](ooda-loop)
-* [OODA loop v DMAIC cycle v PDCA spiral](ooda-loop-v-dmaic-cycle-v-pdca-spiral)
-* [Kaizen (continuous improvement)](kaizen)
-* [ADKAR change management model](adkar-change-management-model)
+  * North Star
+  * Big Hairy Audacious Goal (BHAG)
+  * Vision, mission, values
+  * Voice of the Customer (VoC)
 
-## Design Development
+Creative thinking techniques
 
-* [Big design up front (BDUF)](big-design-up-front)
-* [Domain-Driven Design (DDD)](domain-driven-design)
-* [Behavior-Driven Development (BDD)](behavior-driven-development)
-* [Test-Driven Development (TDD)](test-driven-development)
-* [Voice of the Customer (VoC)](voice-of-the-customer)
+  * Futurespective
+  * Brainstorming
+  * Thinking hats
+  * SCAMPER
+  * Oblique strategies
+  * Storyboard
+  * Storyboard steps
+  * Mind map
+  * Flowchart
 
-## [Modeling diagrams](modeling-diagrams)
+Intent plan
 
-* [Activity diagram](activity-diagram)
-* [Sequence diagram](sequence-diagram)
-* [Use case diagram](use-case-diagram)
-* [Object diagram](object-diagram)
-* [Class diagram](class-diagram)
-* [Package diagram](package-diagram)
-* [Component diagram](component-diagram)
-* [Deployment diagram](deployment-diagram)
-* [State diagram](state-diagram)
-* [Timing diagram](timing-diagram)
-* [Entity-relationship diagram (ERD)](entity-relationship-diagram)
-* [Cause-and-effect diagram](cause-and-effect-diagram)
-* Fishbone diagram: see cause-and-effect diagram
-* Ishikawa diagram: see cause-and-effect diagram
+  * Objectives and Key Results (OKRs)
+  * Key Performance Indicators (KPIs)
+  * Key Risk Indicators (KRIs)
+  * Critical Success Factors (CSFs)
+  * Critical To Quality (CTQ)
+  * Goals, Ideas, Steps, Tasks (GIST)
+  * Risks, Actions, Issues, Decisions (RAID)
+  * SPADE decision framework
+  * Decision tree
+  * Decision record
+  * SMART criteria
 
-## [Teamwork](teamwork)
+Statement Of Work (SOW)
 
-### [Roles and responsibilities](roles-and-responsibilities)
+  * Scope
+  * Out of scope
+  * Work breakdown structure (WBS)
+  * Functional specifications
+  * Functional specifications - steps
+  * MoSCoW method
+  * Gantt chart
 
-* [Organizational chart](organizational-chart)
-* [Chain of command](chain-of-command)
-* [Stakeholders](stakeholders)
-* [Responsibility assignment matrix (RAM)](responsibility-assignment-matrix)
-* [RACI matrix](raci-matrix)
-* [PARIS matrix](paris-matrix)
+Project estimation
 
-### Formation
+  * Planning poker estimation
+  * T-shirt size task estimation
+  * Fibonacci task estimation
 
-* [Icebreaker questions](icebreaker-questions)
-* [Forming, Storming, Norming, Performing (FSNP)](forming-storming-norming-performing)
+Resource leveling
 
-### Team shapes
+  * Critical chain project management
+  * Critical path project management
+  * Constraint satisfaction
+  * Roll-on Roll-off (RoRo)
 
-* [Pizza team](pizza-team)
-* [Squad team](squad-team)
-* [Community of Practice (CoP)](community-of-practice)
-* [The Spotify Model](the-spotify-model)
-  
-### Team locations
-  
-* [Outsourcing](outsourcing)
-* [Offshoring](offshoring)
-* [Nearshoring](nearshoring)
-* [Coworking](coworking)
+Project management methodologies
 
-### [Ways Of Working (WOW)](ways-of-working)
+  * Lean manufacturing
+  * Lean software development methodology
+  * Agile software development methodology
+  * Kanban
+  * Scrum
+  * Prince2
 
-* [TEAM FOCUS](team-focus)
-* [Blameless retrospective](blameless-retrospective)
-* [Pair programming](pair-programming)
+Change management
 
-## [Digital transformation](digital-transformation)
+  * Six Sigma methodology
+  * DMAIC methodology
+  * Plan-Do-Check-Act (PDCA)
+  * OODA loop
+  * OODA loop v DMAIC cycle v PDCA spiral
+  * Kaizen (continuous improvement)
+  * ADKAR change management model
+  * EBFAS organizational climate
+  * Big design up front (BDUF)
+  * Domain-Driven Design (DDD)
+  * Behavior-Driven Development (BDD)
+  * Test-Driven Development (TDD)
 
-* [Business information systems](business-information-systems)
-* [Change management](change-management)
-* [Line-of-business (LOB) application](line-of-business-application)
-* [Front-office applications](front-office-applications)
-* [Back-office applications](back-office-applications)
-* [Standard Operating Procedure (SOP)](standard-operating-procedure)
-* [Playbook](playbook)
-* [Runbook](runbook)
+Modeling diagrams
 
-### [Meetings](meetings)
+  * Activity diagram
+  * Sequence diagram
+  * Use case diagram
+  * Object diagram
+  * Class diagram
+  * Package diagram
+  * Component diagram
+  * Deployment diagram
+  * State diagram
+  * Timing diagram
+  * Entity-relationship diagram (ERD)
+  * Cause-and-effect diagram
 
-* [Meeting types](meeting-types)
-* [All-hands meeting](all-hands-meeting)
-* [Standup meeting](standup-meeting)
-* [One-on-one meeting](one-on-one-meeting)
-* [Skip-level meeting](skip-level-meeting)
+Teamwork
 
-## Quality analysis
+  * Forming, Storming, Norming, Performing (FSNP)
+  * Icebreaker questions
+  * Pizza team
+  * Squad team
+  * Community of Practice (CoP)
+  * The Spotify Model
+  * Ways Of Working (WOW)
+  * TEAM FOCUS
+  * Pair programming
 
-* [After-Action Report (AAR)](after-action-report)
-* [Five Whys analysis](five-whys-analysis)
-* Non-functional requirements: see system quality attributes
-* [Root cause analysis (RCA)](root-cause-analysis)
-* [System Quality Attributes (SQAs)](system-quality-attributes)
-* [Quality of Service (QoS) for networks](quality-of-service-for-networks)
-* [Good Enough For Now (GEFN)](good-enough-for-now)
-* [Technical debt](technical-debt)
-* [Refactoring](refactoring)
-* See also: cause and effect diagram
-  
-## [Statistical analysis](statistical-analysis)
+Roles and responsibilities
 
-* [Descriptive statistics](descriptive-statistics)
-* [Inferential statistics](inferential-statistics)
-* [Correlation](correlation)
-* [Causation](causation)
-* [Probability](probability)
-* [Variance](variance)
-* [Trend analysis](trend-analysis)
-* [Anomaly detection](anomaly-detection)
-* [Quantitative fallacy](quantitative-fallacy)
-* [Regression to the mean](regression-to-the-mean)
-* [Bayes' theorem](bayes-theorem)
-* [Chi-square analysis](chi-square-analysis)
-* [Monte Carlo methods](monte-carlo-methods)
-* [Statistical analysis techniques](statistical-analysis-techniques)
+  * Organizational chart
+  * Chain of command
+  * Stakeholders
+  * Responsibility assignment matrix (RAM)
+  * RACI matrix
+  * PARIS matrix
 
-## [Artificial intelligence (AI)](artificial-intelligence)
+Outsourcing
 
-* [AI project management](ai-project-management)
-* [AI product development](ai-product-development)
-* [AI resource leveling](ai-resource-leveling)
+  * Offshoring
+  * Nearshoring
 
+Meetings
 
-### [Enterprise companies](enterprise-companies)
+  * Meeting types
+  * All-hands meeting
+  * Standup meeting
+  * One-on-one meeting
+  * Skip-level meeting
 
-* [Enterprise Portfolio Project Management (EPPM)](enterprise-portfolio-project-management)
-* [Enterprise Resource Planning (ERP)](enterprise-resource-planning)
-* [Enterprise Change Management (ECM)](enterprise-change-management)
-* [Enterprise Architecture (EA)](enterprise-architecture)
-* [Enterprise software](enterprise-software)
+Digital transformation
 
+  * Business information systems
+  * Line-of-business (LOB) application
+  * Front-office applications
+  * Back-office applications
 
-## Lore
+Change management
 
-### [Aphorisms](aphorisms)
+  * Business continuity
+  * Operational resilience
+  * Standard Operating Procedure (SOP)
+  * Playbook
+  * Runbook
 
-* [Brooks' Law](brooks-law)
-* [Conway's Law](conways-law)
-* [Hyrum’s Law](hyrums-law)
-* [The Law of Demos (Kapor's Law)](the-law-of-demos)
-* [The Law of Conservation of Complexity (Tesler's Law)](the-law-of-conservation-of-complexity)
-* [The Pareto Principle (The 80/20 Rule)](the-pareto-principle)
-* [Chesterton's fence](chestertons-fence)
+Quality control
 
-### [Idioms](idioms)
+  * Program Evaluation and Review Technique (PERT)
+  * After-Action Report (AAR)
+  * Blameless retrospective
+  * Issue tracker
+  * Cynefin framework
+  * Five Whys analysis
+  * Root cause analysis (RCA)
+  * System Quality Attributes (SQAs)
+  * Quality of Service (QoS) for networks
+  * Good Enough For Now (GEFN)
+  * Technical debt
+  * Refactoring
 
-* [Quick wins](quick-wins)
-* [Low-hanging fruit](low-hanging-fruit)
-* [Win-win](win-win)
-* [Buy-in](buy-in)
-* [Have a think](have-a-think)
-* [Think outside of the box](think-outside-of-the-box)
-* [Unknown unknowns](unknown-unknowns)
-* [Stretch goal](stretch-goal)
-* [The proof is in the pudding](the-proof-is-in-the-pudding)
-* [On the bench](on-the-bench)
-* [On the radar](on-the-radar)
-* [The ball is in your court](the-ball-is-in-your-court)
-* [Get on the front foot](get-on-the-front-foot)
-* [Skin in the game](skin-in-the-game)
-* [Put a pin in it](put-a-pin-in-it)
-* [Out of scope](out-of-scope)
-* [Over the horizon](over-the-horizon)
-* [Boil the ocean](boil-the-ocean)
-* [Firefighting mode](firefighting-mode)
-* [Barking up the wrong tree](barking-up-the-wrong-tree)
-* [Swoop and poop](swoop-and-poop)
- 
-### [Project management quotations](project-management-quotations)
+Statistical analysis
 
-* [Culture eats strategy for breakfast](culture-eats-strategy-for-breakfast)
-* [Execution eats strategy for lunch](execution-eats-strategy-for-lunch)
-* [Move fast and break things](move-fast-and-break-things)
-* [Ideas are easy, implementation is hard](ideas-are-easy-implementation-is-hard)
-* [Learn early, learn often](learn-early-learn-often)
-* [Make mistakes faster](make-mistakes-faster)
-* [Perfect is the enemy of good](perfect-is-the-enemy-of-good)
-* [Data beats emotions](data-beats-emotions)
-* [See things in the present, even if they are in the future](see-things-in-the-present-even-if-they-are-in-the-future)
+  * Descriptive statistics
+  * Inferential statistics
+  * Correlation
+  * Causation
+  * Probability
+  * Variance
+  * Trend analysis
+  * Anomaly detection
+  * Quantitative fallacy
+  * Regression to the mean
+  * Bayes' theorem
+  * Chi-square analysis
+  * Monte Carlo methods
+  * Statistical analysis techniques
 
-## About this project
+Artificial intelligence (AI)
 
-* [About the author](about-the-author)
-* [About the ebook PDF](about-the-ebook-pdf)
-* [About related projects](about-related-projects)
+  * AI project management
+  * AI product development
+  * AI resource leveling
+
+Enterprise companies
+
+  * Enterprise Portfolio Project Management (EPPM)
+  * Enterprise Resource Planning (ERP)
+  * Enterprise Change Management (ECM)
+  * Enterprise Architecture (EA)
+  * Enterprise software
+
+Project management quotations
+
+  * Culture eats strategy for breakfast
+  * Execution eats strategy for lunch
+  * Move fast and break things
+  * Ideas are easy, implementation is hard
+  * Learn early, learn often
+  * Make mistakes faster
+  * Perfect is the enemy of good
+  * Data beats emotions
+  * See things in the present, even if they are in the future
+
+Aphorisms
+
+  * Brooks' Law
+  * Conway's Law
+  * Hyrum’s Law
+  * The Law of Demos (Kapor's Law)
+  * The Law of Conservation of Complexity (Tesler's Law)
+  * The Pareto Principle (The 80/20 Rule)
+  * Chesterton's fence
+
+Idioms
+
+  * Quick wins
+  * Low-hanging fruit
+  * Win-win
+  * Buy-in
+  * Have a think
+  * Think outside of the box
+  * Unknown unknowns
+  * Stretch goal
+  * The proof is in the pudding
+  * On the bench
+  * On the radar
+  * The ball is in your court
+  * Get on the front foot
+  * Skin in the game
+  * Put a pin in it
+  * Out of scope
+  * Over the horizon
+  * Boil the ocean
+  * Firefighting mode
+  * Barking up the wrong tree
+  * Swoop and poop
+
+Conclusion
+
+  * About the editor
+  * About the AI
+  * About the ebook
+  * About related projects

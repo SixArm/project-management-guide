@@ -4,13 +4,17 @@ Project Management Primer: Concepts, Tactics, Ideas.
 
 This is a glossary guide e-book, with one topic per page. 
 
-Edited by Joel Parker Henderson (@joelparkerhenderson).
+Edited by Joel Parker Henderson:<br>
+<https://github.com/joelparkerhenderson>
 
-The e-book is pay-what-you-wish:<br>
+The e-book PDF file is here:<br>
+[project-management-primer.pdf](project-management-primer.pdf)
+
+The e-book is also available pay-what-you-want:<br>
 <https://gumroad.com/l/project-management-primer>
 
-The e-book is PDF is also here:
-<project-management-primer.pdf>
+Questions and feedback:<br>
+[joel@joelparkerhenderson.com](mailto:joel@joelparkerhenderson.com)
 
 ## Contents
 

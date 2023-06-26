@@ -10,7 +10,7 @@ Edited by Joel Parker Henderson:<br>
 The e-book PDF file is here:<br>
 [project-management-primer.pdf](project-management-primer.pdf)
 
-The e-book is also available pay-what-you-want:<br>
+Also available pay-what-you-want:<br>
 <https://gumroad.com/l/project-management-primer>
 
 Questions and feedback:<br>
@@ -20,6 +20,10 @@ Questions and feedback:<br>
 
 Introduction
 
+  * What is this book?
+  * Who should read this?
+  * Why did I write this?
+  
 Project management
 
   * Project management life cycle (PMLC)
@@ -221,6 +225,11 @@ Enterprise companies
   * Enterprise Change Management (ECM)
   * Enterprise Architecture (EA)
   * Enterprise software
+
+Books about project management
+
+  * Project Management for the Unofficial Project Manager by Kory Kogon et al.
+  * Making Things Happen by Scott Berkun
 
 Project management quotations
 

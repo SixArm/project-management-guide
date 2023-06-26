@@ -1,4 +1,4 @@
-### [Introduction](project-management-primer-start)
+### [Introduction](project-management-primer-introduction)
 
 ### [Project management](project-management)
 
@@ -215,6 +215,11 @@
 
 ## Lore
 
+### [Books about project management](books-about-project-management)
+
+* [Project Management for the Unofficial Project Manager by Kory Kogon et al.](project-management-for-the-unofficial-project-manager-by-kory-kogon-et-al)
+* [Making Things Happen by Scott Berkun](making-things-happen-by-scott-berkun)
+
 ### [Project management quotations](project-management-quotations)
 
 * [Culture eats strategy for breakfast](culture-eats-strategy-for-breakfast)
@@ -261,7 +266,7 @@
 * [Barking up the wrong tree](barking-up-the-wrong-tree)
 * [Swoop and poop](swoop-and-poop)
 
-### [Conclusion](project-management-primer-stop)
+### [Conclusion](project-management-primer-conclusion)
 
 * [About the editor](about-the-editor)
 * [About the AI](about-the-ai)

@@ -4,17 +4,19 @@ Project Management Primer: Concepts, Tactics, Ideas.
 
 This is a glossary guide e-book, with one topic per page. 
 
-Edited by Joel Parker Henderson:<br>
-<https://github.com/joelparkerhenderson>
+Download the [free e-book](project-management-primer.pdf)
 
-The e-book PDF file is here:<br>
-[project-management-primer.pdf](project-management-primer.pdf)
+You can [pay what you want](https://gumroad.com/l/project-management-primer)
 
-Also available pay-what-you-want:<br>
-<https://gumroad.com/l/project-management-primer>
+Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson>)
 
-Questions and feedback:<br>
-[joel@joelparkerhenderson.com](mailto:joel@joelparkerhenderson.com)
+For questions and suggestions [email me](mailto:joel@joelparkerhenderson.com)
+
+Related primers:
+
+* [Startup Business Primer](https://github.com/sixarm/startup-business-primer)
+* [UI/UX Primer](https://github.com/sixarm/ui-ux-primer)
+* [Business Lingo Primer](https://github.com/sixarm/business-lingo-primer)
 
 ## Contents
 

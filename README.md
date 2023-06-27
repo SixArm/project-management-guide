@@ -21,8 +21,8 @@ Questions and feedback:<br>
 Introduction
 
   * What is this book?
-  * Who should read this?
-  * Why did I write this?
+  * Who is this for?
+  * Why am I creating this?
   
 Project management
 

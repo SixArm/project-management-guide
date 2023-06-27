@@ -18,6 +18,9 @@
 * [Big Hairy Audacious Goal (BHAG)](big-hairy-audacious-goal)
 * [Vision, mission, values](vision-mission-values)
 * [Voice of the Customer (VoC)](voice-of-the-customer)
+* [Subject matter expert (SME)](subject-matter-expert)
+* [Mind map](mind-map)
+* [Decision tree](decision-tree)
 
 ### [Creative thinking techniques](creative-thinking-techniques)
 
@@ -26,10 +29,10 @@
 * [Thinking hats](thinking-hats)
 * [SCAMPER](scamper)
 * [Oblique strategies](oblique-strategies)
-* [Storyboard](storyboard)
-* [Storyboard steps](storyboard-steps)
 * [Mind map](mind-map)
 * [Flowchart](flowchart)
+* [Mental model](mental-model)
+* [The map is not the territory](the-map-is-not-the-territory)
 
 ### [Intent plan](intent-plan)
 
@@ -52,8 +55,10 @@
 * [Work Breakdown Structure (WBS)](work-breakdown-structure)
 * [Functional specifications](functional-specifications) 
 * [Functional specifications - steps](functional-specifications-steps)
+* [Software development life cycle (SDLC)](software-development-life-cycle)
 * [MoSCoW method](moscow-method)
 * [Gantt chart](gantt-chart)
+* [Quad chart](quad-chart)
 
 ### [Project estimation](project-estimation)
 
@@ -111,6 +116,9 @@
 * [Cause-and-effect diagram](cause-and-effect-diagram)
 * Fishbone diagram: see cause-and-effect diagram
 * Ishikawa diagram: see cause-and-effect diagram
+* [Unified Modeling Language (UML)](unified-modeling-language)
+* [PlantUML](plantuml)
+* [Mermaid.js](mermaid-js)
 
 ## Teams
 
@@ -265,6 +273,18 @@
 * [Firefighting mode](firefighting-mode)
 * [Barking up the wrong tree](barking-up-the-wrong-tree)
 * [Swoop and poop](swoop-and-poop)
+
+### [Soft skills](soft-skills)
+
+* [How to sketch a user interface](how-to-sketch-a-user-interface)
+* [How to run a focus group](how-to-run-a-focus-group)
+* [How to give a demo](how-to-give-a-demo)
+* [How to interview a user](how-to-interview-a-user)
+* [How to collaborate](how-to-collaborate)
+* [How to lead a meeting](how-to-lead-a-meeting)
+* [How to work with stakeholders](how-to-work-with-stakeholders)
+* [How to get feedback](how-to-get-feedback)
+* [How to give feedback](how-to-give-feedback)
 
 ### [Conclusion](project-management-primer-conclusion)
 

@@ -249,35 +249,17 @@ Aphorisms
 
   * Brooks' Law
   * Conway's Law
-  * Hyrum’s Law
-  * The Law of Demos (Kapor's Law)
   * The Law of Conservation of Complexity (Tesler's Law)
   * The Pareto Principle (The 80/20 Rule)
   * Chesterton's fence
 
 Idioms
 
-  * Quick wins
-  * Low-hanging fruit
-  * Win-win
-  * Buy-in
-  * Have a think
+  * Ahead of the pack
+  * Get on the front foot
   * Think outside of the box
   * Unknown unknowns
-  * Stretch goal
-  * The proof is in the pudding
-  * On the bench
-  * On the radar
-  * The ball is in your court
-  * Get on the front foot
-  * Skin in the game
-  * Put a pin in it
-  * Out of scope
-  * Over the horizon
-  * Boil the ocean
-  * Firefighting mode
-  * Barking up the wrong tree
-  * Swoop and poop
+  * Win-win
 
 Conclusion
 

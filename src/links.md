@@ -4,6 +4,7 @@
 
 * [Project management life cycle (PMLC)](project-management-life-cycle)
 * [The Project Management Book Of Knowledge (PMBOK)](the-project-management-book-of-knowledge)
+* [Project portfolio management (PPM)](project-portfolio-management)
 * [Outputs versus outcomes (OVO)](outputs-versus-outcomes)
 
 ### [Inception](inception)

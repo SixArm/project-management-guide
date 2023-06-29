@@ -3,8 +3,8 @@
 ### [Project management](project-management)
 
 * [Project management life cycle (PMLC)](project-management-life-cycle)
-* [The Project Management Book Of Knowledge (PMBOK)](the-project-management-book-of-knowledge)
 * [Project portfolio management (PPM)](project-portfolio-management)
+* [Portfolio optimization](portfolio-optimization)
 * [Outputs versus outcomes (OVO)](outputs-versus-outcomes)
 
 ### [Inception](inception)
@@ -226,6 +226,7 @@
 
 ### [Books about project management](books-about-project-management)
 
+* [The Project Management Book Of Knowledge (PMBOK)](the-project-management-book-of-knowledge)
 * [Project Management for the Unofficial Project Manager by Kory Kogon et al.](project-management-for-the-unofficial-project-manager-by-kory-kogon-et-al)
 * [Making Things Happen by Scott Berkun](making-things-happen-by-scott-berkun)
 

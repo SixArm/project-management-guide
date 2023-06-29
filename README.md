@@ -29,8 +29,8 @@ Introduction
 Project management
 
   * Project management life cycle (PMLC)
-  * The Project Management Book Of Knowledge (PMBOK)
   * Project portfolio management (PPM)
+  * Portfolio optimization
   * Outputs versus outcomes (OVO)
 
 Inception
@@ -231,6 +231,7 @@ Enterprise companies
 
 Books about project management
 
+  * The Project Management Book Of Knowledge (PMBOK)
   * Project Management for the Unofficial Project Manager by Kory Kogon et al.
   * Making Things Happen by Scott Berkun
 

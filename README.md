@@ -8,7 +8,7 @@ Download the [free e-book](project-management-primer.pdf)
 
 You can [pay what you want](https://gumroad.com/l/project-management-primer)
 
-Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson>)
+Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson)
 
 For questions and suggestions [email me](mailto:joel@joelparkerhenderson.com)
 
@@ -31,6 +31,7 @@ Project management
   * Project management life cycle (PMLC)
   * Project portfolio management (PPM)
   * Portfolio optimization
+  * Project versus program
   * Outputs versus outcomes (OVO)
 
 Inception
@@ -45,6 +46,9 @@ Ideation
   * Big Hairy Audacious Goal (BHAG)
   * Vision, mission, values
   * Voice of the Customer (VoC)
+  * Subject matter expert (SME)
+  * Mind map
+  * Decision tree
 
 Creative thinking techniques
 
@@ -53,10 +57,10 @@ Creative thinking techniques
   * Thinking hats
   * SCAMPER
   * Oblique strategies
-  * Storyboard
-  * Storyboard steps
   * Mind map
   * Flowchart
+  * Mental model
+  * The map is not the territory
 
 Intent plan
 
@@ -75,12 +79,14 @@ Intent plan
 Statement Of Work (SOW)
 
   * Scope
-  * Out of scope
-  * Work breakdown structure (WBS)
+  * Out-of-scope
+  * Work Breakdown Structure (WBS)
   * Functional specifications
   * Functional specifications - steps
+  * Software development life cycle (SDLC)
   * MoSCoW method
   * Gantt chart
+  * Quad chart
 
 Project estimation
 
@@ -114,6 +120,9 @@ Change management
   * Kaizen (continuous improvement)
   * ADKAR change management model
   * EBFAS organizational climate
+
+Design Development
+
   * Big design up front (BDUF)
   * Domain-Driven Design (DDD)
   * Behavior-Driven Development (BDD)
@@ -133,6 +142,11 @@ Modeling diagrams
   * Timing diagram
   * Entity-relationship diagram (ERD)
   * Cause-and-effect diagram
+  * Fishbone diagram: see cause-and-effect diagram
+  * Ishikawa diagram: see cause-and-effect diagram
+  * Unified Modeling Language (UML)
+  * PlantUML
+  * Mermaid.js
 
 Teamwork
 
@@ -191,12 +205,14 @@ Quality control
   * Issue tracker
   * Cynefin framework
   * Five Whys analysis
+  * Non-functional requirements: see system quality attributes
   * Root cause analysis (RCA)
   * System Quality Attributes (SQAs)
   * Quality of Service (QoS) for networks
   * Good Enough For Now (GEFN)
   * Technical debt
   * Refactoring
+  * See also: cause and effect diagram
 
 Statistical analysis
 
@@ -254,6 +270,7 @@ Aphorisms
   * The Law of Conservation of Complexity (Tesler's Law)
   * The Pareto Principle (The 80/20 Rule)
   * Chesterton's fence
+  * For more aphorisms see our Business Lingo Primer
 
 Idioms
 
@@ -262,6 +279,15 @@ Idioms
   * Think outside of the box
   * Unknown unknowns
   * Win-win
+  * For more idioms see our Business Lingo Primer
+
+Soft skills
+
+  * How to give a demo
+  * How to lead a meeting
+  * How to work with stakeholders
+  * How to get feedback
+  * How to give feedback
 
 Conclusion
 

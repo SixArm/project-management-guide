@@ -5,6 +5,7 @@
 * [Project management life cycle (PMLC)](project-management-life-cycle)
 * [Project portfolio management (PPM)](project-portfolio-management)
 * [Portfolio optimization](portfolio-optimization)
+* [Project versus program](project-versus-program)
 * [Outputs versus outcomes (OVO)](outputs-versus-outcomes)
 
 ### [Inception](inception)

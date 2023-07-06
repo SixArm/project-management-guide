@@ -223,6 +223,13 @@
 * [Enterprise Architecture (EA)](enterprise-architecture)
 * [Enterprise software](enterprise-software)
 
+## [Scientific management](scientific-management)
+
+* [Theory X and Theory Y](theory-x-and-theory-y)
+* [Theory Z](theory-z)
+* [Command and control (C2)](command-and-control)
+* [Value Alignment framework](value-alignment-framework)
+
 ## Lore
 
 ### [Books about project management](books-about-project-management)

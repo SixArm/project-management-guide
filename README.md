@@ -1,5 +1,7 @@
 # Project Management Primer
 
+<img src="README.png" alt="splash" style="width: 100%;"/>
+
 Project Management Primer: Concepts, Tactics, Ideas.
 
 This is a glossary guide e-book, with one topic per page. 

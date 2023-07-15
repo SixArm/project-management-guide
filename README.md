@@ -1,6 +1,6 @@
 # Project Management Primer
 
-<img src="README.png" alt="splash" style="width: 100%;"/>
+<img src="README.jpg" alt="splash" style="width: 100%;"/>
 
 Project Management Primer: Concepts, Tactics, Ideas.
 
@@ -10,12 +10,6 @@ This is a glossary guide e-book, with one topic per page.
 * If you wish, [pay what you want](https://gumroad.com/l/project-management-primer).
 * Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson).
 * For questions and suggestions [email me](mailto:joel@joelparkerhenderson.com).
-
-Related primers:
-
-* [Startup Business Primer](https://github.com/sixarm/startup-business-primer)
-* [UI/UX Primer](https://github.com/sixarm/ui-ux-primer)
-* [Business Lingo Primer](https://github.com/sixarm/business-lingo-primer)
 
 ## Contents
 
@@ -294,3 +288,15 @@ Conclusion
   * About the AI
   * About the ebook
   * About related projects
+
+## All our primers
+
+* [Innovation Partnership Primer](https://github.com/sixarm/innovation-partnership-primer)
+
+* [Startup Business Primer](https://github.com/sixarm/startup-business-primer)
+
+* [Business Lingo Primer](https://github.com/sixarm/business-lingo-primer)
+
+* [Project Management Primer](https://github.com/sixarm/project-management-primer) (this primer)
+
+* [UI/UX Design Primer](https://github.com/sixarm/ui-ux-design-primer)

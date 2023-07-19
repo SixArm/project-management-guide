@@ -297,6 +297,6 @@ Conclusion
 
 * [Business Lingo Primer](https://github.com/sixarm/business-lingo-primer)
 
-* [Project Management Primer](https://github.com/sixarm/project-management-primer) (this primer)
+* [Project Management Primer](https://github.com/sixarm/project-management-primer)
 
 * [UI/UX Design Primer](https://github.com/sixarm/ui-ux-design-primer)

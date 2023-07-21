@@ -53,6 +53,7 @@
 ### [Statement Of Work (SOW)](statement-of-work)
 
 * [Scope](scope)
+* [Scope creep](scope-creep)
 * [Out-of-scope](out-of-scope)
 * [Work Breakdown Structure (WBS)](work-breakdown-structure)
 * [Functional specifications](functional-specifications) 
@@ -211,8 +212,8 @@
 
 ### [Artificial intelligence (AI)](artificial-intelligence)
 
-* [AI project management](ai-project-management)
-* [AI product development](ai-product-development)
+* [AI for project management](ai-for-project-management)
+* [AI for product development](ai-for-product-development)
 * [AI resource leveling](ai-resource-leveling)
 
 ### [Enterprise companies](enterprise-companies)

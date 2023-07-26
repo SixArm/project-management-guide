@@ -1,4 +1,4 @@
-### [Introduction](project-management-primer-introduction)
+### [Introduction](project-management-guide-introduction)
 
 ### [Project management](project-management)
 
@@ -258,7 +258,7 @@
 * [The Law of Conservation of Complexity (Tesler's Law)](the-law-of-conservation-of-complexity)
 * [The Pareto Principle (The 80/20 Rule)](the-pareto-principle)
 * [Chesterton's fence](chestertons-fence)
-* For more aphorisms see our [Business Lingo Primer](https://github.com/sixarm/business-idioms-primer)
+* For more aphorisms see our [Business Lingo Guide](https://github.com/sixarm/business-idioms-guide)
 
 ### [Idioms](idioms)
 
@@ -267,7 +267,7 @@
 * [Think outside of the box](think-outside-of-the-box)
 * [Unknown unknowns](unknown-unknowns)
 * [Win-win](win-win)
-* For more idioms see our [Business Lingo Primer](https://github.com/sixarm/business-idioms-primer)
+* For more idioms see our [Business Lingo Guide](https://github.com/sixarm/business-idioms-guide)
 
 ### [Soft skills](soft-skills)
 
@@ -277,7 +277,7 @@
 * [How to get feedback](how-to-get-feedback)
 * [How to give feedback](how-to-give-feedback)
 
-### [Conclusion](project-management-primer-conclusion)
+### [Conclusion](project-management-guide-conclusion)
 
 * [About the editor](about-the-editor)
 * [About the AI](about-the-ai)

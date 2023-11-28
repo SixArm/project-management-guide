@@ -1,0 +1,9 @@
+# Critical path project management
+
+Critical path is a project management technique that identifies the critical path in a project, which is the sequence of activities that must be completed on time to ensure that the project is completed within its allotted timeframe. The critical path represents the longest sequence of dependent activities in a project, and any delay in completing these activities will result in a delay in the entire project.
+
+The critical path scheduling method involves a network diagram that maps out all of the project activities and their dependencies. Each activity is represented by a node, and the dependencies between the activities are represented by the arrows between the nodes. The duration of each activity is estimated, and the earliest start time and earliest finish time for each activity is calculated based on the dependencies between the activities.
+
+Once the network diagram is complete, the critical path is identified by calculating the longest sequence of activities that must be completed on time. This is done by adding up the duration of each activity on the path, and determining the earliest finish time for the entire project. Any activity that has slack, or can be delayed without affecting the critical path, is considered a non-critical activity.
+
+The critical path scheduling technique is useful for project managers to identify which activities are most critical to the success of the project, and to determine where resources should be focused to ensure that these activities are completed on time. It also helps project managers to identify potential delays and to develop contingency plans to mitigate these risks.

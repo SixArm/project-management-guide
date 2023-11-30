@@ -2,7 +2,7 @@
 
 Quality control refers to the processes and activities implemented to ensure that a project or product meets specified quality standards and requirements. It focuses on preventing defects, identifying issues, and taking corrective measures to deliver a high-quality outcome. Quality control is an essential part of project management and is typically performed throughout the project lifecycle.
 
-Key aspects…
+**Key aspects**:
 
 Planning: Estalish quality objectives, criteria, and metrics. Definine quality processes, responsibilities, and resources needed. While quality control focuses on identifying and correcting defects, quality assurance focuses on the prevention of defects by establishing processes, procedures, and standards to ensure that the project is being executed correctly.
 

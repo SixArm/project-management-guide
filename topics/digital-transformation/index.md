@@ -2,7 +2,7 @@
 
 Digital transformation refers to the process of using digital technologies to fundamentally change and improve various aspects of an organization's operations, processes, products, and services. It involves leveraging technology to drive significant and impactful changes that can enhance efficiency, innovation, employee capabitlies, customer success, and overall business performance.
 
-Key areas…
+**Key aspects**:
 
 * Innovation: Embrace a mindset of continuous discovery and learning. Identify new opportunities, create offerings, enter  markets, and respond quickly to changing dynamics.
 

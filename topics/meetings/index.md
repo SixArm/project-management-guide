@@ -2,7 +2,7 @@
 
 Meetings are formal gatherings of individuals or groups within an organization to discuss, share information, make decisions, and collaborate on specific topics or projects. Meetings play a crucial role in communication, coordination, and problem-solving within teams and across departments.
 
-Key aspects…
+**Key aspects**:
 
 Purpose: Every meeting should have a clear purpose or objective. This could be sharing information, making decisions, brainstorming ideas, problem-solving, planning, or updating project status.
 

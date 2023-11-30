@@ -4,7 +4,7 @@ In project management, scope refers to the specific deliverables, objectives, ta
 
 Project managers use various techniques like scope statements, work breakdown structures (WBS), and change control processes to define, manage, and control project scope throughout its lifecycle.
 
-Key aspects…
+**Key aspects**:
 
 Project Objectives: The scope statement identifies the project's objectives, which describe the desired outcomes or results that the project aims to achieve. Objectives should be specific, measurable, achievable, relevant, and time-bound (SMART).
 

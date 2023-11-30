@@ -2,7 +2,7 @@
 
 Scientific management is a management theory developed by Frederick Winslow Taylor in the late 19th and early 20th centuries. Taylor believed that organizations could achieve increased productivity and efficiency by applying scientific principles to the study of work processes and by carefully managing the tasks performed by workers. Scientific management had a significant impact on industrial practices, particularly in manufacturing and production environments.
 
-Key principles…
+**Key aspects**:
 
 Division of labor: Break down work tasks into small, specialized, and repetitive tasks. Allow workers to focus on specific aspects of the job, leading to increased efficiency and productivity.
 

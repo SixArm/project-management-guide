@@ -2,7 +2,7 @@
 
 Project Portfolio Management (PPM) is a strategic approach to managing an organization's projects and aligning them with its overall business objectives. It involves the centralized management and oversight of a portfolio of projects, programs, and initiatives to optimize resource allocation, prioritize investments, and maximize business value.
 
-Key components…
+**Key aspects**:
 
 Prioritization: Assess project proposals based on strategic objectives, potential value, risks, and alignment with organizational priorities and return on investment (ROI).
 

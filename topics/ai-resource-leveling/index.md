@@ -6,7 +6,7 @@ Some key areas…
 
 Demand Forecasting: Analyze historical data, project requirements, task dependencies, skill requirements, and other relevant factors to predict future resource demand.
 
-Optimal Allocation: Optimize resource allocation by considering constraints, objectives, workloads, bottlenecks, capabilties, and costs.
+Optimal Allocation: Optimize resource allocation by considering constraints, objectives, workloads, bottlenecks, capabilities, and costs.
 
 Skill Matching: Analyze peoples' skills, capabilities, expertise, experience, certifications, and the like, to match them with specific requirements of tasks or projects.
 

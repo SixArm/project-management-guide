@@ -2,7 +2,7 @@
 
 Teamwork refers to the collaborative effort of a group of individuals working together towards a common goal. It involves the coordination, cooperation, and mutual support of team members.
 
-Key aspects…
+**Key aspects**:
 
 Collaboration: Teamwork involves active participation, sharing of ideas, and pooling of resources to solve problems, make decisions, and accomplish tasks.
 

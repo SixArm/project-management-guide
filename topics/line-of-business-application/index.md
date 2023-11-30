@@ -2,7 +2,7 @@
 
 A Line of Business (LOB) application refers to software applications or systems that are specifically designed to support and automate the operations of a department or business function in an organization.
 
-Key aspects…
+**Key aspects**:
 
 Specific Functionality: LOB applications are built to address the specific needs and workflows of a particular department or group within an organization. Examples: accounting systems, customer relationship management (CRM) software, inventory management systems, human resources management systems (HRMS), and project management tools.
 

@@ -2,7 +2,7 @@
 
 Change management refers to the processes and strategies used by organizations to effectively manage changes to their operations, systems, structures, or strategies. It involves the careful planning, implementation, and management of changes to minimize disruption and ensure that the changes are adopted successfully.
 
-Key components…
+**Key aspects**:
 
 Planning: This involves identifying the need for change, determining the goals and objectives of the change, and creating a detailed plan for how the change will be implemented.
 

@@ -2,7 +2,7 @@
 
 "Project Management for the Unofficial Project Manager: A FranklinCovey Title" by Kory Kogon, Suzette Blakemore, and James Wood is a book that provides practical guidance and strategies for individuals who find themselves managing projects without formal project management training or job titles.
 
-Key points…
+**Key aspects**:
 
 Understanding Project Management: The book introduces fundamental concepts, principles, and terminology. It explains the importance of project management and project management skills.
 

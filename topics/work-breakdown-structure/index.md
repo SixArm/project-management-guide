@@ -4,7 +4,7 @@ A Work Breakdown Structure (WBS) is a hierarchical decomposition of a project in
 
 The WBS is a fundamental project management tool that helps in organizing, planning, executing, and controlling projects. Creating a WBS involves collaborative efforts with the project team and stakeholders. It is typically developed in iterative and participatory sessions, ensuring that all perspectives are considered.
 
-Key aspects…
+**Key aspects**:
 
 Deliverable-Oriented: The WBS focuses on identifying and organizing the project's deliverables or outputs. Each level of the WBS represents a specific deliverable, such as a product, service, or result.
 

@@ -2,7 +2,7 @@
 
 In the context of project management, "Roll-On Roll-Off" (RoRo) refers to a project execution strategy where resources or deliverables are added or removed from a project at specific intervals or stages. The term is derived from the transportation industry, where it describes a method of loading and unloading cargo from ships using ramps.
 
-Key aspects…
+**Key aspects**:
 
 Resource Allocation: RoRo allows for the allocation of resources to a project in a phased manner. Resources, such as personnel or equipment, can be added or removed as needed at different stages of the project. This helps optimize resource utilization.
 

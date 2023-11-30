@@ -2,7 +2,7 @@
 
 "Making Things Happen: Mastering Project Management" by Scott Berkun is a book that provides practical insights and advice for project managers. It offers a combination of project management theory, personal anecdotes, and practical techniques to help project managers effectively navigate the complexities of managing projects.
 
-Key points…
+**Key aspects**:
 
 Project Initiation: The book emphasizes the importance of project initiation and how to define project goals, scope, and stakeholders. It emphasizes the need for clear project vision and objectives.
 

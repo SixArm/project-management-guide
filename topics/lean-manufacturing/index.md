@@ -2,7 +2,7 @@
 
 Lean manufacturing, often referred to as simply "Lean," is a production philosophy and methodology aimed at maximizing value for customers while minimizing waste and inefficiencies in the manufacturing process. It originated from the Toyota Production System (TPS) and has been widely adopted by companies across various industries.
 
-Key concepts…
+**Key aspects**:
 
 Value: Lean manufacturing starts by defining value from the customer's perspective. Value is determined by what the customer is willing to pay for in a product or service.
 

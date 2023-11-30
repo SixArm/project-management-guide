@@ -2,7 +2,7 @@
 
 The project management life cycle (PMLC) is a framework that outlines the stages or phases through which a project progresses from initiation to closure. It provides a structured approach for managing projects and helps ensure that key activities and deliverables are completed in a logical sequence.
 
-Key phases…
+**Key aspects**:
 
 1. Initiation: Identify the need for the project. Determine the project's objectives, scope, and feasibility. Define the project's goals, conduct initial assessments, and obtain approval to proceed.
 

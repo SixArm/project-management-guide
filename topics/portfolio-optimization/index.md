@@ -2,7 +2,7 @@
 
 Portfolio optimization refers to the process of maximizing the expected return or minimizing the risk of a portfolio of investments by carefully selecting the right combination of assets. It involves analyzing and adjusting the allocation of investments in order to achieve the best possible balance between risk and return.
 
-Key steps…
+**Key aspects**:
 
 Define Objectives: Identify the objectives and constraints of the portfolio, such as desired return, risk tolerance, liquidity requirements, and investment horizon.
 

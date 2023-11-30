@@ -2,7 +2,7 @@
 
 A playbook is a comprehensive and structured document that outlines a set of strategies, procedures, and actions to be followed in specific situations or scenarios. Playbooks are commonly used in various fields, including business, sports, information technology, and security. Benefits include improving consistency, efficiency, training, knowledge management, risk mitigation, teamwork, and kaizen.
 
-Key components…
+**Key aspects**:
 
 Objectives: The playbook should clearly define the objectives and goals it aims to achieve. This helps align strategies and tasks with goals.
 

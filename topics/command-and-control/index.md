@@ -4,7 +4,7 @@ Command and control (C2) is a management approach or style that involves central
 
 Command and control can be effective in certain contexts, such as emergency situations or military operations where quick decision-making and clear directives are necessary. However, it has been criticized in more dynamic and complex environments where agility, creativity, and employee empowerment are valued.
 
-Key characteristics…
+**Key aspects**:
 
 Centralized decision-making: Decision-making authority is concentrated at the top levels of the organization, with managers and leaders making decisions that are then communicated downward.
 

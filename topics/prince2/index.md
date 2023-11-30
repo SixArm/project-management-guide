@@ -2,7 +2,7 @@
 
 PRINCE2 (Projects in Controlled Environments) is a widely used project management methodology that provides a structured approach for managing projects. It offers a set of best practices, principles, and processes that guide project managers throughout the project lifecycle.
 
-Key aspects…
+**Key aspects**:
 
 Process-based Approach: PRINCE2 is organized into a set of processes that define the step-by-step activities and responsibilities for managing a project, from initiation to closure.
 

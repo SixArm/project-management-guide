@@ -2,7 +2,7 @@
 
 A Standard Operating Procedure (SOP) is a documented set of step-by-step instructions that outlines how to perform a specific task or activity within an organization. SOPs are developed to ensure consistency, efficiency, and quality in executing routine or critical processes. They serve as guidelines for employees to follow, providing a standardized approach to perform tasks, maintain quality standards, and promote safety. Benefits can include improvements in training, quality assurance, compliance, and kaizen.
 
-Key elements…
+**Key aspects**:
 
 Objective: Each SOP should clearly state the purpose and objective of the procedure, describing what needs to be accomplished.
 

@@ -2,7 +2,7 @@
 
 Business Information Systems (BIS) refer to the use of technology and information systems in the context of business operations, decision-making, and management.
 
-Key aspects…
+**Key aspects**:
 
 Information Management: BIS involve the collection, storage, processing, and retrieval of business data and information. This includes databases, data warehouses, and information management systems. This also includes system quality attributes such as security, availability, privacy, and scalability.
 

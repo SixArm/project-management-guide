@@ -2,13 +2,19 @@
 title: "Project Management Guide"
 subtitle: "Concepts • Tactics • Ideas"
 author: "Edited by Joel Parker Henderson"
-date: "Version 1.2.0"
+date: "2024-01-01"
+description: >
+  Topics for leading projects, programs, and portfolios, such as the project
+  management life cycle (PMLC), Key Performance Indicators (KPIs), SMART
+  criteria, change management, digital transformation, agile, lean, kanban, and
+  kaizen.
 titlepage: true
 titlepage-color: "FFFFFF"
 titlepage-text-color: "000000"
 titlepage-rule-color: "CCCCCC"
 titlepage-rule-height: 4
-logo: "files/logo.png"
+cover-image: "../../README.jpg"
+logo: "../README.jpg"
 logo-width: 100
 page-background:
 page-background-opacity:
@@ -25,5 +31,5 @@ footer-left: "© Joel Parker Henderson"
 footer-center: "License: CC-BY-NC-SA-4.0"
 footer-right:
 subparagraph: true
-lang: en-US
+lang: "en-US"
 ---

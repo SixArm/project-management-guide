@@ -1,0 +1,4 @@
+#!/bin/sh
+set -euf
+top="$(git rev-parse --show-toplevel)"
+"$top/bin/topics" | xargs -I{} rsync -av "$HOME/git/sixarm/topics/topics/{}/" "$top/topics/{}/"

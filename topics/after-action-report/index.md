@@ -4,7 +4,7 @@ An after-action report (AAR) is a structured review and analysis of a specific e
 
 An AAR typically involves gathering data and feedback from all relevant stakeholders, including participants, leaders, and observers. The data may include observations, notes, and recordings of the event, as well as interviews and surveys with participants and stakeholders. The data is analyzed to identify strengths, weaknesses, opportunities, and threats (SWOT analysis) related to the event or project.
 
-**Key aspects**:
+**Key aspects:**
 
 * **Objectives**: A clear statement of the purpose and goals of the AAR.
 

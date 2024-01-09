@@ -1,2 +1,0 @@
-Scope creep
-Architecture astronaut

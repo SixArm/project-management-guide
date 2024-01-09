@@ -4,13 +4,13 @@ In project management, scope refers to the specific deliverables, objectives, ta
 
 Project managers use various techniques like scope statements, work breakdown structures (WBS), and change control processes to define, manage, and control project scope throughout its lifecycle.
 
-**Key aspects**:
+**Key aspects:**
 
-Project Objectives: The scope statement identifies the project's objectives, which describe the desired outcomes or results that the project aims to achieve. Objectives should be specific, measurable, achievable, relevant, and time-bound (SMART).
+* **Project Objectives:** Identify the project's objectives. Describe the desired outcomes or results that the project aims to achieve. Objectives should be specific, measurable, achievable, relevant, and timely (SMART).
 
-Deliverables: Scope defines the tangible or intangible products, services, or results that will be delivered by the project. Deliverables are specific and measurable and provide a clear understanding of what will be produced or accomplished.
+* **Deliverables:** Define the tangible or intangible products, services, or results that will be delivered by the project. Provide a clear understanding of what will be produced or accomplished. Deliverables are specific and measurable.
 
-Requirements: The scope statement outlines the functional and non-functional requirements that need to be met by the project. These requirements specify the features, functionalities, and characteristics that the project deliverables must possess to satisfy the stakeholders' needs and expectations.
+* **Requirements:** Explain the functional and non-functional requirements that need to be met by the project. Specify the features, functionalities, and characteristics that the project must possess to satisfy the stakeholders' needs and expectations.
 
-Assumptions and Constraints: Scope includes any assumptions made during the project planning process and identifies any constraints that may impact the project's execution. Assumptions are factors or conditions believed to be true but are not yet proven, while constraints are factors that limit the project's options or resources.
+* **Limitations:** Detail any limitations, such as assumptions or constraints, made during the project planning process. Assumptions are factors or conditions believed to be true but are not yet proven. Constraints are factors that limit the project's options or resources.
 

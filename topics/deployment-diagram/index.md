@@ -6,14 +6,14 @@ Deployment diagrams depict the physical architecture of a system and are used to
 
 Deployment diagrams can be used to model different levels of abstraction, from a high-level overview of the system to a detailed description of a particular component's deployment. They can also show the configuration of the physical resources that support the software components and the connections between them.
 
-Some of the important elements that can be represented in a deployment diagram include:
+**Typical elements:**:
 
-* Node: A physical device or software execution environment, such as a server or a workstation.
+* **Node:** A physical device or software execution environment, such as a server or a workstation.
 
-* Component: A modular part of the software system that provides specific functionality.
+* **Component:** A modular part of the software system that provides specific functionality.
 
-* Artifact: A physical piece of data that is used or produced by a software component, such as a database or a file.
+* **Artifact:** A physical piece of data that is used or produced by a software component, such as a database or a file.
 
-* Association: A connection between a node and a component or between two nodes.
+* **Association:** A connection between a node and a component or between two nodes.
 
-* Dependency: A relationship in which a component depends on another component or artifact.
+* **Dependency:** A relationship in which a component depends on another component or artifact.

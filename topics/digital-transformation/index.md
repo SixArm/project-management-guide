@@ -1,6 +1,6 @@
 # Digital transformation
 
-Digital transformation refers to the process of using digital technologies to fundamentally change and improve various aspects of an organization's operations, processes, products, and services. It involves leveraging technology to drive significant and impactful changes that can enhance efficiency, innovation, employee capabitlies, customer success, and overall business performance.
+Digital transformation refers to the process of using digital technologies to fundamentally change and improve various aspects of an organization's operations, processes, products, and services. It involves leveraging technology to drive significant and impactful changes that can enhance efficiency, innovation, employee capabilities, customer success, and overall business performance.
 
 **Key aspects:**
 

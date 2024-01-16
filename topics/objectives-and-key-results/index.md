@@ -2,7 +2,7 @@
 
 Objectives and Key Results (OKRs) is a goal-setting framework that helps organizations align goals with outcomes.
 
-**Typical steps:**
+**General steps:**
 
 1. **Define Objectives:** Objectives are the high-level goals that a company wants to achieve. Objectives should be challenging but achievable.
 

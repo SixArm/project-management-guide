@@ -4,7 +4,7 @@ Liftoff is a term used in agile project management to refer to the initial stage
 
 The term "liftoff" is meant to convey the idea that the project is just getting off the ground, and that the team needs to work together to achieve lift-off and get the project moving in the right direction.
 
-**Typical steps:**
+**General steps:**
 
 * **Align on the project vision:** The team needs to agree on the overall vision for the project and ensure that everyone is working towards the same goal.
 

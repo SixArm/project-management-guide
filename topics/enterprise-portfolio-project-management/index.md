@@ -2,7 +2,7 @@
 
 Enterprise Portfolio Project Management (EPPM) is a methodology that helps organizations manage their project portfolios in a more efficient and strategic manner. EPPM focuses on aligning projects with the organization's goals and objectives, and ensuring that resources are allocated appropriately to achieve those goals.
 
-**Typical steps:**
+**General steps:**
 
 * **Project identification and prioritization:** Identify all potential projects, and evaluate them based on strategic fit, potential ROI, and other relevant factors.
 

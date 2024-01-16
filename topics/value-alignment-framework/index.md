@@ -2,7 +2,7 @@
 
 The Value Alignment framework is a strategic approach used in organizations to ensure that the values of the individuals within the organization align with the overall mission, vision, and goals of the organization. It aims to create a shared understanding of values and promote a cohesive culture that supports the organization's objectives.
 
-**Typical steps:**
+**General steps:**
 
 * **Define:** Identify and define the core values of the organization. These values should reflect the principles and beliefs that guide the organization's behavior and decision-making.
 

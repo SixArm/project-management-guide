@@ -9,7 +9,7 @@ Project Management Guide: this book explains one topic per page, like a big glos
   [Free PDF](https://github.com/SixArm/project-management-guide/raw/main/project-management-guide.pdf),
   [Gumroad](https://gumroad.com/l/project-management-guide),
   [Kindle](https://www.amazon.com/dp/B0CP8JMXBH),
-  [Paperback](https://www.amazon.com/dp/B0CP8JMXBH).
+  [Paperback](https://www.amazon.com/dp/B0CS6QCKQH).
 * Edited by [Joel Parker Henderson](https://github.com/joelparkerhenderson).
 * For questions and suggestions [email me](mailto:joel@joelparkerhenderson.com).
 * For donations [PayPal me](https://paypal.me/joelparkerhenderson) or [Venmo me](https://account.venmo.com/u/joelparkerhenderson).

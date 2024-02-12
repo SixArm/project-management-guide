@@ -91,6 +91,7 @@ Project Management Guide: this book explains one topic per page, like a big glos
 * [Critical path project management](topics/critical-path-project-management)
 * [Constraint satisfaction](topics/constraint-satisfaction)
 * [Roll-on Roll-off (RoRo)](topics/roll-on-roll-off)
+* [Emergent Task Planning (ETP)](topics/emergent-task-planning/)
 
 ### [Project management methodologies](topics/project-management-methodologies)
 
